@@ -38,6 +38,7 @@ nav a {
     text-decoration: none;
     font-weight: bold;
 }
+/* Commit 2: TODO - Add responsive design improvements */
 
 /* Section Styling */
 .section {
@@ -140,3 +141,4 @@ footer {
 .contact-form button:hover { background: #276428; }
 
 /* Third commit */
+

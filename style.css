@@ -66,6 +66,7 @@ nav a {
     box-shadow: 0 3px 8px rgba(0,0,0,0.1);
     text-align: center;
 }
+/* Commit 1: Added spacing comment for readability */
 
 /* Gallery */
 .gallery {
@@ -137,4 +138,5 @@ footer {
   cursor: pointer;
 }
 .contact-form button:hover { background: #276428; }
+
 /* Third commit */

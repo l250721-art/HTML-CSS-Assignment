@@ -33,10 +33,10 @@ The project’s goal is to educate users about sustainable energy sources and pr
 
 ## 4. Validator Proofs
 ### HTML Validator
-![HTML Validator](screenshots/html validator.png)
+![HTML Validator](screenshots/html-validator.png)
 
 ### CSS Validator
-![CSS Validator](screenshots/css validator.png)
+![CSS Validator](screenshots/css-validator.png)
 
 ---
 

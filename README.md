@@ -1,4 +1,4 @@
-First commit description
+
 # GreenFuel – Renewable Energy Solutions
 
 ## 1. Project Idea / Seed
